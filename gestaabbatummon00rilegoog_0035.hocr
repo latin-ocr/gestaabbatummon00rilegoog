@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gestaabbatummon00rilegoog_0035.png"; bbox 0 0 3450 5717; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 543 2240 2623 2486">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 543 2240 2623 2483">
+     <span class='ocr_line' id='line_1_1' title="bbox 543 2240 2623 2335; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 543 2241 884 2334; x_wconf 76' lang='lat' dir='ltr'><strong>GESTA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 937 2240 1462 2332; x_wconf 85' lang='lat' dir='ltr'><strong>ABBATUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1514 2240 2183 2333; x_wconf 80' lang='lat' dir='ltr'><strong>MONASTERII</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2239 2241 2623 2335; x_wconf 81' lang='lat' dir='ltr'><strong>SANCTI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1365 2390 1804 2486; baseline -0.002 -3"><span class='ocrx_word' id='word_1_5' title='bbox 1365 2390 1804 2486; x_wconf 85' lang='lat' dir='ltr'><strong>ALBANI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1023 2589 2155 2674">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1023 2589 2155 2674">
+     <span class='ocr_line' id='line_1_3' title="bbox 1023 2589 2155 2674; baseline -0.002 -22"><span class='ocrx_word' id='word_1_6' title='bbox 1023 2589 2155 2674; x_wconf 49' lang='lat' dir='ltr'>[MSMCow.CLAu1uE]</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1201 2799 1977 2874">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1201 2799 1977 2874">
+     <span class='ocr_line' id='line_1_4' title="bbox 1201 2799 1977 2874; baseline -0.004 -12"><span class='ocrx_word' id='word_1_7' title='bbox 1201 2799 1559 2863; x_wconf 86' lang='lat' dir='ltr'>SECTIO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1626 2800 1977 2874; x_wconf 86' lang='lat' dir='ltr'><strong>PRIMA,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 641 3026 2525 3139">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 641 3026 2525 3139">
+     <span class='ocr_line' id='line_1_5' title="bbox 641 3026 2525 3139; baseline -0.001 -19"><span class='ocrx_word' id='word_1_9' title='bbox 641 3029 725 3120; x_wconf 93' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_10' title='bbox 835 3030 1547 3123; x_wconf 82' lang='lat' dir='ltr'><strong>MATTHAEO</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1660 3026 2525 3139; x_wconf 87' lang='lat' dir='ltr'><strong>PARISIENSI,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 872 3229 2298 3299">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 872 3229 2298 3299">
+     <span class='ocr_line' id='line_1_6' title="bbox 872 3229 2298 3299; baseline 0.001 -14"><span class='ocrx_word' id='word_1_12' title='bbox 872 3230 1030 3289; x_wconf 89' lang='lat' dir='ltr'><strong>PBO</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1079 3231 1387 3290; x_wconf 79' lang='lat' dir='ltr'><strong>MAJORI</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1440 3232 1722 3299; x_wconf 75' lang='lat' dir='ltr'><strong>PARTE,</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1779 3229 2298 3289; x_wconf 83' lang='lat' dir='ltr'><strong>CONSGRIP&#39;I&#39;A.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
